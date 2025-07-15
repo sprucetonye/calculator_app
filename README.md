@@ -42,15 +42,26 @@ This isn’t just another calculator app—it’s a showcase of my Flutter exper
 Clone the repository
 
 sh
-git clone https://github.com/yourusername/flutter-calculator.git  
+git clone https://github.com/sprucetonye/flutter-calculator-app.git  
 Install dependencies
 
-sh
+<pre>
+
+<code>sh
 flutter pub get  
 Run the app
+</code>
+</pre>
 
-sh
-flutter run  
+
+<pre>
+
+<code>sh
+
+flutter run
+</code>
+</pre>
+  
 (Include additional setup steps if needed, like Firebase or other services.)
 
 🌟 What This Project Demonstrates for Employers
@@ -71,9 +82,8 @@ Voice Input Support (Hands-free calculations)
 🤝 Let’s Connect!
 I’m actively looking for new opportunities where I can contribute my Flutter & Mobile Development expertise. If you’re hiring or collaborating, let’s talk!
 
-📧 Email: your.email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
-💻 GitHub: Your GitHub
+📧 Email: waribosamuel@gmail.com
+🔗 LinkedIn: tonyewaribo
+💻 GitHub: sprucetonye
 
 🚀 Thanks for checking out my project! If you like what you see, feel free to ⭐ the repo or reach out for potential opportunities.
-
