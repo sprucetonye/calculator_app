@@ -42,7 +42,7 @@ This isn’t just another calculator app—it’s a showcase of my Flutter exper
 Clone the repository
 
 sh
-git clone https://github.com/sprucetonye/flutter-calculator-app.git  
+git clone https://github.com/sprucetonye/calculator_app
 Install dependencies
 
 <pre>
